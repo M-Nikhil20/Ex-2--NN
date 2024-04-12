@@ -1,4 +1,4 @@
-<H3>Name  M NIKHIL R</H3>
+<H3>Name  M NIKHIL</H3>
 <H3>Register no. 212222230095</H3>
 <H3>Date 04.04.2024</H3>
 <H3>Experiment No. 2 </H3>
